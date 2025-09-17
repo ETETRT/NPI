@@ -1,0 +1,3 @@
+Сначала git add --all
+Потом git commit -m "..."
+Потом git push --all
